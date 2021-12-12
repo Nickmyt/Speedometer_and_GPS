@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "676305494534",
+    "firebase_url": "https://speedometer-333422-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "speedometer-333422",
+    "storage_bucket": "speedometer-333422.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676305494534:android:0bc09ea5956658e75b1987",
+        "android_client_info": {
+          "package_name": "com.example.first_exersice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676305494534-i4810790iamfto2oln37d10edeb5i5rc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeDMQ-25jeyrcb08uW8XMwKcK-Ilwqgt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676305494534-i4810790iamfto2oln37d10edeb5i5rc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
